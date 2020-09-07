@@ -15,9 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
+  icon = "assistive-listening-systems"
+  icon_pack = "fas"
+  name = "Audiology"
+  description = ""
+
+[[feature]]
+  icon = "laptop-medical"
+  icon_pack = "fas"
+  name = "Public Health"
+  description = ""
+  
+[[feature]]
+  icon = "comment-dots"
+  icon_pack = "fas"
+  name = "Qualitative Research"
   description = ""
   
 [[feature]]
@@ -27,22 +39,17 @@ subtitle = ""
   description = ""
   
 [[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  description = ""
+  
+[[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = ""
   
-[[feature]]
-  icon = "assistive-listening-systems"
-  icon_pack = "fas"
-  name = "Audiology"
-  description = ""
-  
-[[feature]]
-  icon = "comment-dots"
-  icon_pack = "fas"
-  name = "Qualitative Research"
-  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
