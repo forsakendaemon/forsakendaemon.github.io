@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Macquarie University"
   company_url = "https://www.mq.edu.au"
   location = "Macquarie Park, Australia"
-  date_start = "2020-07"
+  date_start = "2020-07-01"
   date_end = ""
   description = """Leading collaborative research projects in association with the University, and contributing as appropriate to teaching and research."""
   
