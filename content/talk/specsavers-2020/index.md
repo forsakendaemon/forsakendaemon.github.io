@@ -1,21 +1,21 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Want vs Need: Why Hearing Providers Choose Connected Hearing Services"
-event: "Soundbites"
-event_url: "https://www.nal.gov.au"
-location: "National Acoustic Laboratories"
-summary: "While there are plenty of connected hearing health options available to hearing services providers, very few of these are being used. So what drives hearing service staff to choose to use or refuse these services?"
+title: "TBA"
+event: "Specsavers Professional Advancement Conference 2020"
+event_url: "https://www.specsavers-spectrum.com/pac-2020-online/"
+location: "Online"
+summary:
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-06-11T18:00:00+10:00
-date_end: 2020-06-11T18:30:00+10:00
+date: 2020-09-07T15:46:41+10:00
+date_end: 2020-09-07T15:46:41+10:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-09-07T13:19:28+10:00
+publishDate: 2021-09-07T15:46:41+10:00
 
 authors: []
 tags: []
@@ -43,8 +43,8 @@ image:
 url_slides:
 
 url_code:
-url_pdf: "soundbites-1.pdf"
-url_video: "https://www.youtube.com/watch?v=nVJvrdkWTbw"
+url_pdf:
+url_video:
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
