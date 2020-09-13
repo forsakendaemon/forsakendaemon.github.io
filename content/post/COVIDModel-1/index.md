@@ -34,7 +34,7 @@ So who is right?
 
 Well, in some ways, they all are. And, luckily, the models have been made available for us to play around with, so that we can get them running, see how they work, and try and get some idea of the variability inherent in these kinds of models.
 
-The purpose of this series of posts is to walk you through the University of Melbourne COVID Modelling, from accesing the models, running them on your computer, understanding and adjusting the parameters, and generating and analysing hte outputs.
+The purpose of this series of posts is to walk you through the University of Melbourne COVID Modelling, from accesing the models, running them on your computer, understanding and adjusting the parameters, and generating and analysing the outputs.
 
 Now, to start with, we will need to get a copy of the models themselves. You can access them on [GitHub](https://github.com/JTHooker/COVIDModel), by clicking on the green "Code" button and selecting "Download ZIP". Unzip the file that downloads somewhere on your computer. (Of course, if you are familiar with Git, feel free to clone the repository directly, or to make your own fork of the repository and clone that -- all that matters is that you have access to the files.)
 
