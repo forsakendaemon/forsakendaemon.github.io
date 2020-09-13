@@ -93,7 +93,7 @@ When you click the setup button, you should see (mostly hidden by lots of slider
 
 As a final piece of setup, click on the dropdown towards the top of the screen, under the "view updates" checkbox, that reads "continuous". Select "on ticks" instead - this will update your view whenever time advances in the simulation, rather than every time something happens in the background - not changing this can make your simulations take an awfully long time to run!
 
-Finally, click the "Go" button towards the left of the screen, with two small arrows in the bottom right-hand corner. Things should start happening! You should see graphs begin to update, the dots in the black rectangle move around busily, and numbers begin to change. Keep an eye on the "Active (red) and Total (blue) infections ICU Beds (Black)"" graph towards the bottom, as well as the numeric displays on top of it. Once the number of "currentinfections" reaches zero, click the Go button again to stop the simulation.
+Finally, click the "Go" button towards the left of the screen, with two small arrows in the bottom right-hand corner. Things should start happening! You should see graphs begin to update, the dots in the black rectangle move around busily, and numbers begin to change. Keep an eye on the "Active (red) and Total (blue) infections ICU Beds (Black)" graph towards the bottom, as well as the numeric displays on top of it. Once the number of "currentinfections" reaches zero, click the Go button again to stop the simulation.
 
 {{<figure src="covidmodel-1h.png" title="Example interface after running the Victorian COVID model" >}}
 
