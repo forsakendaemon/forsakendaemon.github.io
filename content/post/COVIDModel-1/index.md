@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "COVID Modelling Part 1"
+title: "COVID Modelling: Part 1"
 subtitle: "Running the model"
 summary: "In this post, we set up the University of Melbourne's COVID model and run some basic simulations."
 authors: ["David Allen"]
 tags: ["covid"]
 categories: []
 date: 2020-09-13T18:03:41+10:00
-lastmod: 2020-09-13T18:03:41+10:00
+lastmod: 2020-09-13T21:46:00+10:00
 featured: true
 draft: false
 
@@ -32,7 +32,7 @@ As lockdown in Melbourne has been extended, a lot of focus has been placed on th
 
 So who is right?
 
-Well, in some ways, they all are. And, luckily, the models have been made available for us to play around with, so that we can get them running, see how they work, and try and get some idea of the variability inherent in these kinds of models.
+Well, in some ways, both are. And, luckily, the models have been made available for us to play around with, so that we can get them running, see how they work, and try and get some idea of the variability inherent in these kinds of models.
 
 The purpose of this series of posts is to walk you through the University of Melbourne COVID Modelling, from accesing the models, running them on your computer, understanding and adjusting the parameters, and generating and analysing the outputs.
 
@@ -93,7 +93,7 @@ When you click the setup button, you should see (mostly hidden by lots of slider
 
 As a final piece of setup, click on the dropdown towards the top of the screen, under the "view updates" checkbox, that reads "continuous". Select "on ticks" instead - this will update your view whenever time advances in the simulation, rather than every time something happens in the background - not changing this can make your simulations take an awfully long time to run!
 
-Finalls, click the "Go" button towards the left of the screen, with two small arrows in the bottom right-hand corner. Things should start happening! You should see graphs begin to update, the dots in the black rectangle move around busily, and numbers begin to change. Keep an eye on the "Active (red) and Total (blue) infections ICU Beds (Black)"" graph towards the bottom, as well as the numeric displays on top of it. Once the number of "currentinfections" reaches zero, click the Go button again to stop the simulation.
+Finally, click the "Go" button towards the left of the screen, with two small arrows in the bottom right-hand corner. Things should start happening! You should see graphs begin to update, the dots in the black rectangle move around busily, and numbers begin to change. Keep an eye on the "Active (red) and Total (blue) infections ICU Beds (Black)"" graph towards the bottom, as well as the numeric displays on top of it. Once the number of "currentinfections" reaches zero, click the Go button again to stop the simulation.
 
 {{<figure src="covidmodel-1h.png" title="Example interface after running the Victorian COVID model" >}}
 
