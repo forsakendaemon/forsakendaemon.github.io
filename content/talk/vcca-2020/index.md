@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Future is Hear: what today can tell us about tomorrow's audiology"
-event: "Specsavers Professional Advancement Conference 2020"
-event_url: "https://www.specsavers-spectrum.com/pac-2020-online/"
+title: "Use of air conduction thresholds to predict bone conduction asymmetry and air-bone gap"
+event: "Virtual Conference on Computational Audiology 2020"
+event_url: "https://computationalaudiology.com/use-of-air-conduction-thresholds-to-predict-bone-conduction-asymmetry-and-air-bone-gap/"
 location: "Online"
 summary: 
 abstract: "Background: The high reliance on bone conduction for the detection of ear disease, coupled with the difficulty of obtaining bone conduction thresholds remotely, is a barrier to the use of remote assessment.
