@@ -16,7 +16,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-09-07T15:32:57+10:00
 
-authors: ["admin", "Nerina Scarinci", "louise Hickson"]
+authors: ["admin", "Nerina Scarinci", "Louise Hickson"]
 tags: []
 
 # Is this a featured talk? (true/false)

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Optimising connected hearing health services to improve client outcomes"
-authors: ["admin", "Melanie Ferguson", "Paul Jevelle", "Jermy Pang", "Jessica Cooper", "Diana Alcock", "Frances Lockhart", "Andrew Bakhsh", "Muchele Clapin"]
+authors: ["admin", "Melanie Ferguson", "Paul Jevelle", "Jermy Pang", "Jessica Cooper", "Diana Alcock", "Frances Lockhart", "Andrew Bakhsh", "Michele Clapin"]
 date: 2020-07-01T09:00:00+10:00
 doi: ""
 
