@@ -1,8 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'The Nature of Patient- and Family-Centred Care for Young Adults Living with
-  Chronic Disease and their Family Members: A Systematic Review'
+title: 'The Nature of Patient- and Family-Centred Care for Young Adults Living with Chronic Disease and their Family Members: A Systematic Review'
 subtitle: ''
 summary: ''
 authors:
@@ -35,5 +34,5 @@ publication_types:
 - 2
 abstract: ''
 publication: '*International Journal of Integrated Care*'
-doi: 10.5334/ijic.3110/
+doi: 10.5334/ijic.3110
 ---
