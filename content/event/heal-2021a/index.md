@@ -16,7 +16,7 @@ abstract: "A variety of outcome measures are currently used for the assessment o
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-06-16T09:00:00+02:00
+date: 2022-06-16T09:00:00+02:00
 # date_end: 2021-04-25T13:53:37+10:00
 all_day: true
 
