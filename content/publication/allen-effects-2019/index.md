@@ -17,6 +17,8 @@ draft: false
 
 abstract: "Patient- and family-centered care has been shown to improve outcomes across a range of health conditions. The purpose of this study was to determine the impact of interventions to improve the patient- and family-centeredness of care (PFCIs) on the effectiveness of care of young adults (16–25) with chronic health conditions. A segregated design mixed-methods systematic review with meta-analysis and meta-synthesis of the literature was conducted. Thirteen quantitative papers and three qualitative papers were identified for inclusion. Random-effects meta-analysis was performed on quantitative findings, and a meta-synthesis was performed on qualitative findings. Preliminary evidence suggests that PFCIs were associated with improvements in the self-efficacy of young people with chronic health conditions. However, there were very few identified studies, and those that were identified were primarily in the field of mental health, requiring ongoing further research."
 
+summary: "Patient- and family-centered care has been shown to improve outcomes across a range of health conditions. The purpose of this study was to determine the impact of interventions to improve the patient- and family-centeredness of care (PFCIs) on the effectiveness of care of young adults (16–25) with chronic health conditions. Preliminary evidence suggests that PFCIs were associated with improvements in the self-efficacy of young people with chronic health conditions. However, there were very few identified studies, and those that were identified were primarily in the field of mental health, requiring ongoing further research."
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -34,7 +36,6 @@ projects: []
 publishDate: '2020-09-07T04:10:14.162873Z'
 publication_types:
 - 2
-abstract: ''
-publication: '*Emerging Adulthood*'
+publication: 'Emerging Adulthood'
 doi: 10.1177/2167696819883458
 ---

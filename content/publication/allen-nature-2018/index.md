@@ -36,7 +36,6 @@ projects: []
 publishDate: '2020-09-07T04:10:13.889676Z'
 publication_types:
 - 2
-abstract: ''
-publication: '*International Journal of Integrated Care*'
+publication: 'International Journal of Integrated Care'
 doi: 10.5334/ijic.3110
 ---

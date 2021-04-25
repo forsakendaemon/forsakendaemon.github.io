@@ -16,7 +16,7 @@ publishDate: 2021-04-25T14:25:41+10:00
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Research Report"
 publication_short: ""
 
 abstract: "The overall aim of this research was to develop and deliver recommendations on evidence-based outcome measures for implementation of a client outcomes-focussed program for those receiving hearing devices in order to measure the success and cost effectiveness of the Hearing Services Program.\n\nThe specific objectives were to:\n 1. seek views and consensus from a range of key stakeholders to define which standardised client-centred outcome measures should be used, when and how in the HSP.\n 2. identify current and future potential mechanisms and systems to standardise the collection of data and reporting of outcomes, which will enable comparison across clients and contracted service providers\n3. scope the potential for a national outcomes database and its benefits\n4. identify how the recommendations of this outcomes program need to be modified for other populations such Aboriginal and Torres Strait Islanders, adults with specialist hearing needs and children up to the age of 26 years.\n\nThis study resulted in seven overarching recommendations, with four sub-recommendations.\n- Recommendation 1: Target the outcome domain “communication ability”\n  - Recommendation 1a: Use Part 2 of the Glasgow Hearing Aid Benefit Profiles

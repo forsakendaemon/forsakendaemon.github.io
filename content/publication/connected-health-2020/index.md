@@ -13,10 +13,10 @@ publishDate: 2021-04-25T14:25:22+10:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Research Report"
 publication_short: ""
 
 abstract: "This project aimed to understand why hearing service staff use or refuse connected hearing health services; to attempt to optimise the use of several existing services based on this understanding; and to explore trends in connected health and technology that might help shape the development, trial, and implementation of future connected hearing health services.\n\n Several main factors that determine whether staff use connected hearing health services were identified, including Training, Staffing, Time, Technology, Usability, The Right Client, and Clear Benefits. When these were used to develop interventions to encourage the use of existing connected hearing health services, these interventions were largely successful, suggesting that these factors can be used to support new and existing connected hearing health services. A wide range of potential avenues for future connected hearing health services were identified, including several that are the subject of ongoing research and investigation at NAL and around the world. There remain significant opportunities to improve the uptake of connected hearing health services, supporting patients to receive care that addresses their needs in ways that are meaningful and valuable to them."
