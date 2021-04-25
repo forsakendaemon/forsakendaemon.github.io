@@ -1,0 +1,2 @@
+# Address formats.
+en-au = {order = ['street', 'city', 'region', 'postcode', 'country'], delimiters = [', ', ', ', ', ', ', ']}
