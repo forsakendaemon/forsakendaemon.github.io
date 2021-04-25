@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2021-04-25T13:53:15+10:00
 
-authors: ["admin, "Jermy Pang", "Jessica Cooper", "Catherine McMahon", "Melanie Ferguson"]
+authors: ["admin", "Jermy Pang", "Jessica Cooper", "Catherine McMahon", "Melanie Ferguson" ]
 tags: []
 
 # Is this a featured event? (true/false)
