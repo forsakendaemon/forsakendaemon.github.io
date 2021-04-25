@@ -43,8 +43,8 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
-url_video:
+url_pdf: "specsavers-2020.pdf"
+url_video: "https://www.youtube.com/watch?v=vk0AdfxKABg"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
